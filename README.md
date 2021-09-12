@@ -12,3 +12,5 @@
 Description
 
 This project created with laravel v8.54 
+
+- Virtualhost file is in public
