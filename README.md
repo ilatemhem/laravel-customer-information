@@ -1,4 +1,4 @@
-- Run clone repo to you local
+- Clone repo to you local
 - Run "composer install"
 - Run "npm install" 
 
